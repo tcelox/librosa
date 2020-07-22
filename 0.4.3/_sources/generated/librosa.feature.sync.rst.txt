@@ -1,6 +1,0 @@
-librosa.feature.sync
-====================
-
-.. currentmodule:: librosa.feature
-
-.. autofunction:: sync

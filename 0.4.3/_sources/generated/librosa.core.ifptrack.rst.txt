@@ -1,6 +1,0 @@
-librosa.core.ifptrack
-=====================
-
-.. currentmodule:: librosa.core
-
-.. autofunction:: ifptrack

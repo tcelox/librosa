@@ -1,6 +1,0 @@
-librosa.core.griffinlim\_cqt
-============================
-
-.. currentmodule:: librosa.core
-
-.. autofunction:: griffinlim_cqt

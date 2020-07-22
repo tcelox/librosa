@@ -1,6 +1,0 @@
-librosa.segment.structure\_feature
-==================================
-
-.. currentmodule:: librosa.segment
-
-.. autofunction:: structure_feature

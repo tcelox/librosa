@@ -1,6 +1,0 @@
-librosa.util.buf\_to\_int
-=========================
-
-.. currentmodule:: librosa.util
-
-.. autofunction:: buf_to_int

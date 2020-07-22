@@ -1,6 +1,0 @@
-librosa.effects.preemphasis
-===========================
-
-.. currentmodule:: librosa.effects
-
-.. autofunction:: preemphasis

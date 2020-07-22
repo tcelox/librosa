@@ -1,6 +1,0 @@
-librosa.beat.estimate\_tempo
-============================
-
-.. currentmodule:: librosa.beat
-
-.. autofunction:: estimate_tempo

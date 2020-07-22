@@ -1,6 +1,0 @@
-librosa.util.shear
-==================
-
-.. currentmodule:: librosa.util
-
-.. autofunction:: shear

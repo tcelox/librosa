@@ -1,6 +1,0 @@
-librosa.filters.logfrequency
-============================
-
-.. currentmodule:: librosa.filters
-
-.. autofunction:: logfrequency
